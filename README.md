@@ -38,7 +38,7 @@ Prerequisites
 * MongoDB
 
 # Steps
-1. Clone the Repository https://github.com/rahulkumar75/Task-Management.git
+1. Clone my repo
 * cd Task-Management
 
 2. Install Dependencies
